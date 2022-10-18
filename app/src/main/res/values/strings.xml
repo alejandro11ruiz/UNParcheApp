@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">UNParcheApp</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="save">Save</string>
+    <string name="time">Time (HH:MM)</string>
+    <string name="date">Date (DD/MM/YY)</string>
+    <string name="activities">Activities</string>
 </resources>
