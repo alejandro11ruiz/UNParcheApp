@@ -4,7 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".cruds.login.RegisterActivity">
+
 
     <TextView
         android:id="@+id/idTVHead"
@@ -13,7 +14,7 @@
         android:layout_marginTop="50dp"
         android:gravity="center"
         android:padding="10dp"
-        android:text="UNParche"
+        android:text="Registro"
         android:textAlignment="center"
         android:textSize="30dp" />
 
@@ -38,24 +39,25 @@
         android:hint="Contraseña" />
 
     <Button
-        android:id="@+id/idBtnLogin"
+        android:id="@+id/idBtnRegReg"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/idEdtPas"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="30dp"
-        android:text="Entrar"
+        android:text="Registrarse"
         android:textAllCaps="false" />
 
     <Button
-        android:id="@+id/idBtnRegis"
+        android:id="@+id/idBtnRigCnl"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_below="@id/idBtnLogin"
-        android:text="Registrarse"
-        android:textAllCaps="false"
+        android:layout_below="@id/idBtnRegReg"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="30dp" />
+        android:layout_marginTop="30dp"
+        android:text="Cancelar"
+        android:textAllCaps="false" />
+
 
 
 </RelativeLayout>
