@@ -3,6 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Jeff/AndroidStudioProjects/UNParcheApp/app/src/main/res/layout/activity_create_site.xml" value="0.275" />
+        <entry key="..\:/Users/Jeff/AndroidStudioProjects/UNParcheApp/app/src/main/res/layout/activity_create_update_activity.xml" value="0.275" />
+        <entry key="..\:/Users/Jeff/AndroidStudioProjects/UNParcheApp/app/src/main/res/layout/activity_create_update_event.xml" value="0.275" />
+        <entry key="..\:/Users/Jeff/AndroidStudioProjects/UNParcheApp/app/src/main/res/layout/activity_create_user.xml" value="0.275" />
+        <entry key="..\:/Users/Jeff/AndroidStudioProjects/UNParcheApp/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Jeff/AndroidStudioProjects/UNParcheApp/app/src/main/res/layout/activity_read_activity.xml" value="0.264" />
+        <entry key="..\:/Users/Jeff/AndroidStudioProjects/UNParcheApp/app/src/main/res/layout/activity_read_event.xml" value="0.264" />
+        <entry key="..\:/Users/Jeff/AndroidStudioProjects/UNParcheApp/app/src/main/res/layout/activity_read_site.xml" value="0.1265625" />
+        <entry key="..\:/Users/Jeff/AndroidStudioProjects/UNParcheApp/app/src/main/res/layout/activity_read_user.xml" value="0.1265625" />
+        <entry key="..\:/Users/Jeff/AndroidStudioProjects/UNParcheApp/app/src/main/res/layout/activity_update_site.xml" value="0.1265625" />
+        <entry key="..\:/Users/Jeff/AndroidStudioProjects/UNParcheApp/app/src/main/res/layout/activity_update_user.xml" value="0.1265625" />
         <entry key="..\:/Users/earui/AndroidStudioProjects/UNParcheApp/app/src/main/res/layout/activity_create_activity.xml" value="0.264" />
         <entry key="..\:/Users/earui/AndroidStudioProjects/UNParcheApp/app/src/main/res/layout/activity_create_update_activity.xml" value="0.2" />
         <entry key="..\:/Users/earui/AndroidStudioProjects/UNParcheApp/app/src/main/res/layout/activity_create_update_event.xml" value="0.2" />
